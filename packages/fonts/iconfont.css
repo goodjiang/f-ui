@@ -1,0 +1,119 @@
+/* @font-face {
+  font-family: "iconfont"; 
+  src: url('iconfont.woff2?t=1642147098676') format('woff2'),
+       url('iconfont.woff?t=1642147098676') format('woff'),
+       url('iconfont.ttf?t=1642147098676') format('truetype');
+} */
+
+[class^="icon-"], [class*="icon-"] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bad:before {
+  content: "\e671";
+}
+
+.icon-arrow-double-left:before {
+  content: "\e672";
+}
+
+.icon-arrow-left-circle:before {
+  content: "\e673";
+}
+
+.icon-arrow-double-right:before {
+  content: "\e674";
+}
+
+.icon-caps-lock:before {
+  content: "\e675";
+}
+
+.icon-3column:before {
+  content: "\e664";
+}
+
+.icon-column-4:before {
+  content: "\e665";
+}
+
+.icon-add:before {
+  content: "\e666";
+}
+
+.icon-add-circle:before {
+  content: "\e667";
+}
+
+.icon-adjust:before {
+  content: "\e668";
+}
+
+.icon-arrow-up-circle:before {
+  content: "\e669";
+}
+
+.icon-arrow-right-circle:before {
+  content: "\e66a";
+}
+
+.icon-arrow-down:before {
+  content: "\e66b";
+}
+
+.icon-ashbin:before {
+  content: "\e66c";
+}
+
+.icon-arrow-right:before {
+  content: "\e66d";
+}
+
+.icon-browse:before {
+  content: "\e66e";
+}
+
+.icon-bottom:before {
+  content: "\e66f";
+}
+
+.icon-back:before {
+  content: "\e670";
+}
+
+.icon-haoyouquan:before {
+  content: "\e608";
+}
+
+.icon-folloe:before {
+  content: "\e663";
+}
+
+.icon-gear:before {
+  content: "\e636";
+}
+
+.icon-fensi:before {
+  content: "\e626";
+}
+
+.icon-sousuo:before {
+  content: "\e633";
+}
+
+.icon-shuxie:before {
+  content: "\e610";
+}
+
+.icon-paihangbang:before {
+  content: "\e68f";
+}
+
+.icon-weibo:before {
+  content: "\e7e4";
+}
+
